@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.7.4">
+        <CylinderTarget name="testing7" version="3.0" targetId="89eacd10c0cd4e36849e6f6b715a95f1" sideLength="8.000000" topDiameter="3.000000" bottomDiameter="3.000000" sideImage="testing7.Body_scaled.jpg"/>
+        <CylinderTarget name="testing6" version="3.0" targetId="5509ddd88d39487992cb625075db82ce" sideLength="8.000000" topDiameter="3.000000" bottomDiameter="3.000000" sideImage="testing6.Body_scaled.jpg"/>
+        <CylinderTarget name="testing5" version="3.0" targetId="44f134bf114942868b65e99caf9b7dd0" sideLength="8.000000" topDiameter="3.000000" bottomDiameter="3.000000" sideImage="testing5.Body_scaled.jpg"/>
+        <CylinderTarget name="testing4" version="3.0" targetId="8eaa0e82752549dcb015e90edb44035f" sideLength="8.000000" topDiameter="3.000000" bottomDiameter="3.000000" sideImage="testing4.Body_scaled.jpg"/>
+        <CylinderTarget name="testing3" version="3.0" targetId="9163b1842acd4c7d92c765ef989aa368" sideLength="8.000000" topDiameter="3.000000" bottomDiameter="3.000000" sideImage="testing3.Body_scaled.jpg"/>
+        <CylinderTarget name="testing2" version="3.0" targetId="08e667cb8b394981b34f21cdacc78d5a" sideLength="8.000000" topDiameter="3.000000" bottomDiameter="3.000000" sideImage="testing2.Body_scaled.jpg"/>
+        <CylinderTarget name="left" version="3.0" targetId="099f787118044a628380807af402cc17" sideLength="8.000000" topDiameter="3.000000" bottomDiameter="3.000000" sideImage="left.Body_scaled.jpg"/>
+        <CylinderTarget name="testing" version="3.0" targetId="5d79f938c4b244739754fb5b4d86f703" sideLength="8.000000" topDiameter="3.000000" bottomDiameter="3.000000" sideImage="testing.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
